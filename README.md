@@ -42,8 +42,10 @@ src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-b
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
+<b></b>
 
-<b>My GitHub Stats</b>
+
+### My GitHub Stats
 
 <a href="https://github.com/somtuzy"><img src = "https://github-readme-stats.vercel.app/api?username=somtuzy&show_icons=true&count_private=true&theme=gotham&hide_border=false&bg_color=00000000" alt="Somtuzy's GitHub stats" /></a>
 
