@@ -17,11 +17,6 @@ I am open to learning more, being mentored and to entry-level backend developer 
 When I'm not saving the world with my code, I write and rap. I love fun, games, sports, music, food, movies, and exciting people. I also love to travel and have random, yet, deep and meaningful conversations with people. 😁
 </p>
 
-
-<p>
-They say I am the life of the party, I say the party has only begun! 😉
-</p>
-
 <hr/>
 
 
