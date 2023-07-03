@@ -43,10 +43,10 @@ src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-b
 
 ### My GitHub Stats
 
-<a href="https://github.com/somtuzy"><img src = "https://github-readme-stats.vercel.app/api?username=somtuzy&show_icons=true&count_private=true&theme=gotham&hide_border=false&bg_color=00000000" alt="Somtuzy's GitHub stats" /></a>
+![Somtuzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=somtuzy&show_icons=true&count_private=true&theme=gotham&hide_border=false&bg_color=00000000)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somtuzy&layout=compact&hide_border=false&theme=gotham&bg_color=00000000)](https://github.com/somtuzy)
 
-<a href="https://github.com/somtuzy" align="left"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=somtuzy&layout=compact&hide_border=false&theme=gotham&bg_color=00000000" alt="Most Used Languages" /></a>
 
 
 ### Socials
