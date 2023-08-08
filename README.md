@@ -26,6 +26,8 @@ src="https://img.shields.io/twitter/follow/somtuzyonyeka?logo=twitter&style=for-
 /></a><a href="https://www.github.com/somtuzy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
 
+<hr/>
+
 
 ### Skills
 
@@ -42,6 +44,8 @@ src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-b
 </p>
 
 <b></b>
+
+<hr/>
 
 
 ### My GitHub Stats
