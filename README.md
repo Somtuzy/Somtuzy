@@ -54,6 +54,7 @@ src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-b
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somtuzy&layout=compact&hide_border=false&theme=gotham&bg_color=00000000)](https://github.com/somtuzy)
 
+<hr/>
 
 
 ### Socials
