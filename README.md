@@ -7,7 +7,7 @@ I am a Software Engineer currently building with Node JS, while learning about R
 
 
 <p>
-I am open to learning more, being mentored and to entry-level backend developer roles. I am also open to collaborating in any projects on JavaScript and TypeScript.
+I am open to learning more, and to backend engineering roles. I am also open to collaborating on any projects written in JavaScript and TypeScript.
 </p>
 
 
