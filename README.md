@@ -15,7 +15,7 @@ I am open to learning more, and to backend engineering roles. I am also open to 
 
 
 <p>
-When I'm not saving the world with my code, I write and rap. I love fun, games, sports, music, food, movies, and exciting people. I also love to travel and have random, yet, deep and meaningful conversations with people. 😁
+When I'm not saving the world with my codes, I write and rap. I love fun, games, sports, music, food, movies, and exciting people. I also love to travel and have random, yet, deep and meaningful conversations with people. 😁
 </p>
 
 <hr/>
