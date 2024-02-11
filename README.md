@@ -7,11 +7,11 @@ I am a Software Engineer currently building with Node JS & React JS, while learn
 
 
 <p>
-I am open to roles, and collaborations on mind blowing projects preferably written in JavaScript and TypeScript.
+I am open to learning more, collaborations and roles on mind blowing projects preferably written in JavaScript and TypeScript.
 </p>
 
 
-<p>While you're here, click on this to find out more about me, and the beautiful tech community my team and I are building on <a href = "https://www.tehcville.com">tehcville</a>. You can also reach out to me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">linkedin</a> or via <a href = "mailto:uzuakpunwasomtuzy@gmail.com">mail</a>.</p>
+<p>While you're here, click on <a href = "https://www.tehcville.com">tehcville</a> to find out more about me, or to join the beautiful tech community my team and I are building. You can also reach out to me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">linkedin</a> or via <a href = "mailto:uzuakpunwasomtuzy@gmail.com">mail</a>.</p>
 
 
 <p>
