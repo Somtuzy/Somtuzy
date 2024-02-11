@@ -2,20 +2,20 @@
 <h2> Hey there, I am Somtochukwu Onyeka Uzuakpunwa 👋🏾 </h2>
 
 <p>
-I am a Software Engineer currently building with Node JS, while learning about React JS, ReactNative, and other Technologies.
+I am a Software Engineer currently building with Node JS & React JS, while learning about ReactNative, and other Technologies.
 </p>
 
 
 <p>
-I am open to learning more, and to backend engineering roles. I am also open to collaborating on any projects written in JavaScript and TypeScript.
+I am open to roles, and collaborations on mind blowing projects preferably written in JavaScript and TypeScript.
 </p>
 
 
-<p>You can reach me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">linkedin</a> or via <a href = "mailto:uzuakpunwasomtuzy@gmail.com">mail</a>.</p>
+<p>While you're here, click on this to find out more about me, and the beautiful tech community my team and I are building on <a href = "https://www.tehcville.com">tehcville</a>. You can also reach out to me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">linkedin</a> or via <a href = "mailto:uzuakpunwasomtuzy@gmail.com">mail</a>.</p>
 
 
 <p>
-When I'm not saving the world with my codes, I write and rap. I love fun, games, sports, music, food, movies, and exciting people. I also love to travel and have random, yet, deep and meaningful conversations with people. 😁
+When I'm not too busy saving the world with my codes, I write and rap. I love fun, games, sports, music, food, movies, and exciting people. I also love to travel and have random, yet, deep and meaningful conversations with people. 😁
 </p>
 
 <hr/>
