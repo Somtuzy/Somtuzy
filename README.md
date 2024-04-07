@@ -2,7 +2,7 @@
 <h2> Hey there, I am Somtochukwu Onyeka Uzuakpunwa 👋🏾 </h2>
 
 <p>
-I am a Software Engineer building with Node JS, React JS, ReactNative, & other Technologies.
+I am a Software Engineer building with Node, React, ReactNative, & other Technologies.
 </p>
 
 
