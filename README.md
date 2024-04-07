@@ -2,12 +2,12 @@
 <h2> Hey there, I am Somtochukwu Onyeka Uzuakpunwa 👋🏾 </h2>
 
 <p>
-I am a Software Engineer currently building with Node JS & React JS, while learning about ReactNative, and other Technologies.
+I am a Software Engineer building with Node JS, React JS, ReactNative, & other Technologies.
 </p>
 
 
 <p>
-I am open to learning more, collaborations and roles on mind blowing projects preferably written in JavaScript and TypeScript.
+I am open to learning more, collaborations, and roles on mind-blowing projects preferably written in JavaScript and TypeScript.
 </p>
 
 
