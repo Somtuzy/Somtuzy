@@ -1,18 +1,19 @@
+<h1>
+Problem Solver. Business Minded. Software Engineer. The Guy With The Crazy Ideas. 
+</h1>
 
 <h2> Hey there, I am Somtochukwu Onyeka Uzuakpunwa 👋🏾 </h2>
 
 <p>
-I am a Software Engineer building with Node, React, ReactNative, & other Technologies.
+I am a Software Engineer currently building with Node, React, ReactNative, & other Technologies.
 </p>
-
 
 <p>
 I am open to learning more, collaborations, and roles on mind-blowing projects preferably written in JavaScript and TypeScript.
 </p>
 
-
-<p>While you're here, click on <a href = "https://www.tehcville.com">Tehcville</a> to find out more about me, or to join the beautiful tech community my team and I are building. You can also reach out to me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a> or via <a href = "mailto:uzuakpunwasomtuzy@gmail.com">mail</a>.</p>
-
+<p>While you're here, click on <a href = "https://www.tehcville.com">Tehcville</a> to find out more about me, or to join the beautiful tech community my team and I are building. You can also reach out to me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a> or via <a href = "mailto:uzuakpunwasomtuzy@gmail.com">mail</a>.
+</p>
 
 <p>
 When I'm not too busy saving the world with my codes, I write and rap. I love fun, games, sports, music, food, movies, and exciting people. I also love to travel and have random, yet, deep and meaningful conversations with people. 😁
