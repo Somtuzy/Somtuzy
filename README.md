@@ -1,8 +1,6 @@
-<h1>
-Problem Solver. Business Minded. Software Engineer. The Guy With The Crazy Ideas. 
-</h1>
+<h1> Hey there, I am Somtochukwu Onyeka Uzuakpunwa 👋🏾 </h1>
 
-<h2> Hey there, I am Somtochukwu Onyeka Uzuakpunwa 👋🏾 </h2>
+<h2> Problem Solver. Business Minded. Software Engineer. The Guy With The Crazy Ideas. </h2>
 
 <p>
 I am a Software Engineer currently building with Node, React, ReactNative, & other Technologies.
