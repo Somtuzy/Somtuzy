@@ -3,18 +3,18 @@
 <h2> Problem Solver. Business Minded. Software Engineer. The Guy With The Crazy Ideas. </h2>
 
 <p>
-I am a Software Engineer currently building with Node, React, ReactNative, & other Technologies.
+I'm a Software Engineer building amazing web and native applications - skilled with JavaScript, TypeScript, Node, Bun, React, ReactNative, Express, Nest, MongoDB, MySQL, PostgreSQL, Mongoose, Knex, Sequelize, Redis, Docker, & other technologies.
 </p>
 
 <p>
-I am open to learning more, collaborations, and roles on mind-blowing projects preferably written in JavaScript and TypeScript.
+I am open to learning more everyday, and collaborations.
 </p>
 
-<p>While you're here, click on <a href = "https://www.tehcville.com">Tehcville</a> to find out more about me, or to join the beautiful tech community my team and I are building. You can also reach out to me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a> or via <a href = "mailto:uzuakpunwasomtuzy@gmail.com">mail</a>.
+<p>While you're here, click on <a href = "https://www.tehcville.com">Tehcville</a> to find out more about the beautiful tehc community my team and I are building. You can also reach out to me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a> or via <a href = "mailto:somtuzy@tehcville.com">mail</a>.
 </p>
 
 <p>
-When I'm not too busy saving the world with my codes, I write and rap. I love fun, games, sports, music, food, movies, and exciting people. I also love to travel and have random, yet, deep and meaningful conversations with people. 😁
+When I'm not too busy brainstorming and writing codes, I write and rap. I love poetry, games, sports, music, food, movies, and lots of fun stuff. I also love to travel the world, and have random, yet, deep and meaningful conversations with exciting people 😁
 </p>
 
 <hr/>
