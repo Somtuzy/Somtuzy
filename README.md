@@ -1,12 +1,12 @@
-<h1> Hey there, I am Somtochukwu Onyeka Uzuakpunwa 👋🏾 </h1>
+<h1> Hey there, I am Somtochukwu Onyeka Uzuakpunwa, also known as Gandalf The Blvck or The Guy With The Crazy Ideas 👋🏾 </h1>
 
-<p>The Guy With The Crazy Ideas, and a Software Engineer building with JavaScript, TypeScript & other technologies.</p>
+<p>I'm a problem solving shape shifter who has taken the form of a Software Engineer building with JavaScript, TypeScript & other technologies.</p>
 
 <p>I am open to learning more everyday, and collaborations. You can connect with me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a>, via <a href = "mailto:somtuzy@tehcville.com">mail</a>, or visit <a href = "https://www.tehcville.com/meet-the-team?q=somtuzy">Meet Team Tehcville</a> to know more about me.
 </p>
 
 <p>
-When I'm not too busy brainstorming and writing codes, I write and rap. I love poetry, games, sports, music, food, movies, and lots of fun stuff. I also love to travel the world, and have random, yet, deep and meaningful conversations with exciting people 😁
+When I'm not brainstorming or writing codes, I write rap, random stories/thoughts, and poetry. I also love playing all kinds of games, sports, music, food, movies, and lots of fun stuff. My dream is to travel the world, and have random, yet, deep and meaningful conversations with exciting people 😁
 </p>
 
 <hr/>
