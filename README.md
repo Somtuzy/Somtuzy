@@ -1,16 +1,10 @@
 <h1> Hey there, I am Somtochukwu Onyeka Uzuakpunwa 👋🏾 </h1>
 
-<h2> Problem Solver. Business Minded. Software Engineer. The Guy With The Crazy Ideas. </h2>
+<h2> The Guy With The Crazy Ideas. </h2>
 
-<p>
-I'm a Software Engineer building amazing web and native applications - skilled with JavaScript, TypeScript, Node, Bun, React, ReactNative, Express, Nest, MongoDB, MySQL, PostgreSQL, Mongoose, Knex, Sequelize, Redis, Docker, & other technologies.
-</p>
+<p>I'm a Software Engineer building with JavaScript, TypeScript & other technologies.</p>
 
-<p>
-I am open to learning more everyday, and collaborations.
-</p>
-
-<p>While you're here, click on <a href = "https://www.tehcville.com">Tehcville</a> to find out more about the beautiful tehc community my team and I are building. You can also reach out to me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a> or via <a href = "mailto:somtuzy@tehcville.com">mail</a>.
+<p>I am open to learning more everyday, and collaborations. You can visit <a href = "https://www.tehcville.com/meet-the-team?q=somtuzy">Somtuzy's Page</a> to know more about me. You can also reach out to me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a> or via <a href = "mailto:somtuzy@tehcville.com">mail</a>.
 </p>
 
 <p>
@@ -20,8 +14,8 @@ When I'm not too busy brainstorming and writing codes, I write and rap. I love p
 <hr/>
 
 
-<a href="https://www.twitter.com/somtuzyonyeka" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/somtuzyonyeka?logo=twitter&style=for-the-badge&color=f97316&labelColor=ffffff"
+<a href="https://www.twitter.com/somtuzzy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/somtuzzy?logo=twitter&style=for-the-badge&color=f97316&labelColor=ffffff"
 /></a><a href="https://www.github.com/somtuzy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
 
@@ -61,7 +55,7 @@ src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/somtuzy#6258" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/somtuzyonyeka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.medium.com/@somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/20823922/somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/somtuzyonyeka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/somtuzy#6258" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/somtuzzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.medium.com/@somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/20823922/somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/somtuzzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <!---
 Somtuzy/Somtuzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
