@@ -2,7 +2,7 @@
 
 <p>The Guy With The Crazy Ideas, and a Software Engineer building with JavaScript, TypeScript & other technologies.</p>
 
-<p>I am open to learning more everyday, and collaborations. You can check me out on <a href = "https://www.tehcville.com/meet-the-team?q=somtuzy">Somtuzy's Page</a>, reach out on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a> or via <a href = "mailto:somtuzy@tehcville.com">mail</a> to know more.
+<p>I am open to learning more everyday, and collaborations. You can connect with me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a>, via <a href = "mailto:somtuzy@tehcville.com">mail</a>, or visit my page on <a href = "https://www.tehcville.com/meet-the-team?q=somtuzy">Meet Team Tehcville</a> to know more about me.
 </p>
 
 <p>
