@@ -1,8 +1,6 @@
 <h1> Hey there, I am Somtochukwu Onyeka Uzuakpunwa 👋🏾 </h1>
 
-<h2> The Guy With The Crazy Ideas. </h2>
-
-<p>I'm a Software Engineer building with JavaScript, TypeScript & other technologies.</p>
+<p>The Guy With The Crazy Ideas, and a Software Engineer building with JavaScript, TypeScript & other technologies.</p>
 
 <p>I am open to learning more everyday, and collaborations. You can visit <a href = "https://www.tehcville.com/meet-the-team?q=somtuzy">Somtuzy's Page</a> to know more about me. You can also reach out to me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a> or via <a href = "mailto:somtuzy@tehcville.com">mail</a>.
 </p>
