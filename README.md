@@ -2,7 +2,7 @@
 
 <p>I'm a problem solving shape shifter who has taken the form of a Software Engineer building with JavaScript, TypeScript & other technologies.</p>
 
-<p>I am open to learning more everyday, and collaborations. You can connect with me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a>, via <a href = "mailto:somtuzy@tehcville.com">mail</a>, or visit <a href = "https://www.tehcville.com/meet-the-team?q=somtuzy">Meet Team Tehcville</a> to know more about me.
+<p>I am open to learning more everyday, and collaborations. You can connect with me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a>, via <a href = "mailto:somtuzy@tehcville.com">mail</a>.
 </p>
 
 <p>
