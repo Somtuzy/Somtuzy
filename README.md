@@ -1,4 +1,4 @@
-<h1> Hey there, I am Somtochukwu Onyeka Uzuakpunwa (also known as Gandalf The Blvck or The Guy With The Crazy Ideas) 👋🏾 </h1>
+<h1> Hey there 👋🏾 </h1>
 
 <p>I'm a problem solving shape shifter who has taken the form of a Software Engineer building with JavaScript, TypeScript & other technologies.</p>
 
