@@ -12,8 +12,8 @@ When I'm not brainstorming or writing codes, I write rap, random stories/thought
 <hr/>
 
 
-<a href="https://www.twitter.com/somtuzzy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/somtuzzy?logo=twitter&style=for-the-badge&color=f97316&labelColor=ffffff"
+<a href="https://www.github.com/somtuzy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/follow/somtuzy?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff"
 /></a><a href="https://www.github.com/somtuzy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
 
