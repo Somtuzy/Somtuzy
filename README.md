@@ -12,10 +12,10 @@ When I'm not brainstorming or writing codes, I write rap, random stories/thought
 <hr/>
 
 
-<--! <a href="https://www.github.com/somtuzy" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/somtuzy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/follow/somtuzy?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff"
 /></a><a href="https://www.github.com/somtuzy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a> !-->
+src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
 
 <hr/>
 
