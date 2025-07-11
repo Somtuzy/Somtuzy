@@ -39,14 +39,6 @@ src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-b
 ![Somtuzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=somtuzy&show_icons=true&count_private=true&theme=gotham&hide_border=false&bg_color=00000000)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somtuzy&layout=compact&hide_border=false&theme=gotham&bg_color=00000000)](https://github.com/somtuzy)
-
-<hr/>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/somtuzy#6258" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/somtuzzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.medium.com/@somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/20823922/somtuzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/somtuzzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 <!---
 Somtuzy/Somtuzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
