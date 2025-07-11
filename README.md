@@ -1,10 +1,11 @@
 <h1> Hey there 👋🏾 </h1>
 
-<p>I'm an extremely passionate Product & Software Engineer building with JavaScript, TypeScript & other technologies. I am a big fan of start-ups as I love growth and am very open to collaborations on building products that simply work!</p>
+<p>I'm an extremely passionate Product & Software Engineer building with JavaScript, TypeScript & other technologies. I love the idea of start-ups. I love growth. I love seeing products come to life and collaborating with like minded people to build products that simply work!</p>
 
-<p>When I'm not brainstorming or writing codes, I write rap, random stories/thoughts, and poetry. I also love playing all kinds of games, sports, music, food, movies, and lots of fun stuff. 
+<p>When I'm not brainstorming or writing codes, I write rap, random stories/thoughts, and poetry. I love playing all kinds of games, sports, music, food, movies, and lots of fun stuff. 
 <br/>
-I intend to travel the world, experience multiple people, lifestyles and cultures, have random, yet, deep and meaningful conversations with people, then finally retire to focus on my farm and beautiful garden where I will continue enjoying the golden experience of watching and partaking in growth 😁</p>
+<br/>
+I intend to spend my life building things, traveling the world, experiencing people, lifestyles, and cultures, engaging in deep, meaningful conversations, and retiring to focus on my farm and beautiful garden, where I will continue to enjoy watching and nurturing growth.</p>
 
 <p>You can connect with me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a> or via <a href = "mailto:somtuzy@tehcville.com">mail</a>.</p>
 
