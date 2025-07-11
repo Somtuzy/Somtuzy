@@ -2,7 +2,7 @@
 
 <p>When I'm not brainstorming or writing codes, I write rap, stories, random thoughts, and poetry. I love playing all kinds of games, sports, music, food, movies, and lots of fun stuff. I intend to spend my life building things, traveling the world, experiencing people, lifestyles, and cultures, engaging in deep, meaningful conversations, and retiring to focus on my farm and beautiful garden, where I will continue to enjoy watching and nurturing growth.</p>
 
-<p>You can connect with me on <a href = "https://www.linkedin.com/in/somtochukwu-onyeka-uzuakpunwa">LinkedIn</a> or via <a href = "mailto:somtuzy@tehcville.com">mail</a>.</p>
+<p>You can connect with me via <a href = "mailto:somtuzy@tehcville.com">email</a>.</p>
 
 <hr/>
 
