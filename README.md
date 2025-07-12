@@ -31,11 +31,6 @@ src="https://img.shields.io/github/followers/somtuzy?logo=github&style=for-the-b
 
 <b></b>
 
-<hr/>
-
-
-### My GitHub Stats
-
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somtuzy&layout=compact&hide_border=false&theme=gotham&bg_color=00000000)](https://github.com/somtuzy)
 <!---
 Somtuzy/Somtuzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
